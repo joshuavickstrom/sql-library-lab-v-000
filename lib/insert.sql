@@ -1,2 +1,2 @@
-INSERT INTO series VALUES (title) "Hunger Games";
-INSERT INTO series VALUES (title) "Tales of the Otori";
+INSERT INTO series (title) VALUES ("Hunger Games");
+INSERT INTO series (title) VALUES ("Tales of the Otori";)
