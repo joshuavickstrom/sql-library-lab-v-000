@@ -9,3 +9,5 @@ INSERT INTO characters (name, motto, species), character_books () VALUES ("Katni
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
+
+INSERT INTO subgenres (name) VALUES ("Fantasy"), ("Romance");
