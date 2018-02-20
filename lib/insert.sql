@@ -18,6 +18,14 @@ INSERT INTO character_books (character_id, book_id) VALUES (1, 3);
 INSERT INTO character_books (character_id, book_id) VALUES (2, 1);
 INSERT INTO character_books (character_id, book_id) VALUES (2, 2);
 INSERT INTO character_books (character_id, book_id) VALUES (2, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 2);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 5);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (5, 5);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 6);
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
