@@ -7,7 +7,7 @@ INSERT INTO books (title, year) VALUES ("Across The Nightingale Floor", 2002), (
 INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Peeta", "I love Katnis!", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Gale", "I love Katnis, too!", "human");
-INSERT INTO characters (name, motto, species) VALUES ("Effie", "May the odds be...", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Effie", "Happy Hunger Games!", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Kaede", "I love Takeo.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Takeo", "I am a ninja.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Kenji", "Let me help.", "human");
