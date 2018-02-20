@@ -12,6 +12,7 @@ INSERT INTO characters (name, motto, species) VALUES ("Kaede", "I love Takeo.", 
 INSERT INTO characters (name, motto, species) VALUES ("Takeo", "I am a ninja.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Kenji", "Let me help.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Kikuta", "We have to do something.", "human");
+INSERT INTO character_books () VALUES ();
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
