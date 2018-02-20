@@ -6,6 +6,12 @@ INSERT INTO books (title, year) VALUES ("Across The Nightingale Floor", 2002), (
 
 INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Peeta", "I love Katnis.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Takeo", "I am a ninja.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Kaede", "I love Takeo.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
