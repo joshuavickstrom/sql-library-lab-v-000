@@ -10,8 +10,8 @@ INSERT INTO characters (name, motto, species) VALUES ("Gale", "I love Katnis, to
 INSERT INTO characters (name, motto, species) VALUES ("Effie", "May the odds be...", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Kaede", "I love Takeo.", "human");
 INSERT INTO characters (name, motto, species) VALUES ("Takeo", "I am a ninja.", "human");
-INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
-INSERT INTO characters (name, motto, species) VALUES ("Katnis", "I volunteer.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Kenji", "Let me help.", "human");
+INSERT INTO characters (name, motto, species) VALUES ("Kikuta", "We have to do something.", "human");
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
