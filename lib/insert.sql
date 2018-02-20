@@ -26,6 +26,8 @@ INSERT INTO character_books (character_id, book_id) VALUES (3, 6);
 INSERT INTO character_books (character_id, book_id) VALUES (4, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (5, 5);
 INSERT INTO character_books (character_id, book_id) VALUES (6, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 6);
 
 INSERT INTO authors (name) VALUES ("Suzanne Collins");
 INSERT INTO authors (name) VALUES ("Lian Hearn");
